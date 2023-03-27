@@ -41,14 +41,11 @@ Faça as seguintes operações matemáticas e imprima o resultado na tela:
 
 ### Questão 3
 
-Faça as seguintes operações matemáticas e imprima o resultado na tela:
+Explique o que a seguinte linha de código está fazendo, no arquivo `respostas.py` e em formato de comentário.
 
-- 23 + 76
-- 81 - 12
-- (3 + 7) * 3
-- O resto da divisão: 14 / 3
-- 7<sup>3</sup>
-- 109.90 - 30%
+**Dica**: para inserir um comentário em Phyton, inicie a linha com o caractere cerquilha - #.
+
+`filiacao: None`
 
 <hr>
 
@@ -72,10 +69,15 @@ telefone: '31982773102'
 Copie o código abaixo no interpretador:
 
 ```phyton
+nomeDaPessoa;
+nomeDaPessoa = "Tamara";
+print(nomeDaPessoa);
 ```
 
-Qual foi o motivo do erro? Explique no arquivo `respostas.py`, em formato de comentário.
+a) Qual foi o motivo do erro? Explique no arquivo `respostas.py`, em formato de comentário.<br>
 **Dica**: para inserir um comentário em Phyton, inicie a linha com o caractere cerquilha - #.
+
+b) Corrija o erro.
 
 ### Questão 6
 
