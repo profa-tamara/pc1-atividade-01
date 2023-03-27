@@ -2,9 +2,9 @@
 
 **ORIENTAÇÕES**
 
-_Modalidade:_ Individual
-_Valor:_ 5 pontos
-_Data limite de entrega:_ 06/04/2023
+_Modalidade:_ Individual<br>
+_Valor:_ 5 pontos<br>
+_Data limite de entrega:_ 06/04/2023<br>
 
 * Crie um arquivo chamado `respostas.py` e cole as respostas de cada exercício.
 * Envie o arquivo pelo SIGAA.
